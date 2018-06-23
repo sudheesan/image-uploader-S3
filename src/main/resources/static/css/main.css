@@ -1,0 +1,22 @@
+.upload-image {
+	margin-top: 3%;
+	width: 50%;
+	margin-left: 25%;
+}
+
+.uploader-header {
+	color: black;
+	text-align: center;
+	color : #5bc0de;
+	
+}
+
+.image-uploader-container {
+	border: 1px solid #5bc0de;
+	width: 64%;
+	margin-left: 17%;
+	border-radius: 6px;
+	border-style: dashed;
+	margin-top: 10%;
+}
+
